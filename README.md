@@ -2,7 +2,7 @@
 
 ### Find - Learn - Connect - Share
 
-![alt text](https://github.com/BrooklinJazz/tech-core/blob/integration/app/assets/images/techcore-logo.png "techCore")
+![alt text](https://github.com/Shaun-Schwartz/tech-core/blob/integration/app/assets/images/techcore-logo.png "techCore")
 
 Preview here: https://tech-core.herokuapp.com/
 
